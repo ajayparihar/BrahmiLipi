@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ashoka_pillar"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/home_bipi"
+        android:fontFamily="@font/new_nelson"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:layout_marginTop="50dp"
+        android:shadowRadius="15"
+        android:shadowDx="5"
+        android:text="@string/br_lipi"
+        android:textColor="#f6bf00"
+        android:textSize="130sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.095">
+
+    </TextView>
+
+    <Button
+        android:id="@+id/home_vovel"
+        android:fontFamily="@font/new_nelson"
+        android:layout_width="260dp"
+        android:layout_height="70dp"
+        android:background="@drawable/button_style"
+        android:text="@string/home_vovel"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:shadowColor="#ffffff"
+        android:shadowRadius="5"
+        android:shadowDx="5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/home_bipi"
+        app:layout_constraintVertical_bias="0.223" />
+
+    <Button
+        android:id="@+id/home_alphabet"
+        android:fontFamily="@font/new_nelson"
+        android:layout_width="260dp"
+        android:layout_height="70dp"
+        android:background="@drawable/button_style"
+        android:text="@string/home_alphabet"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:shadowColor="#ffffff"
+        android:shadowRadius="5"
+        android:shadowDx="5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/home_vovel"
+        app:layout_constraintVertical_bias="0.296" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

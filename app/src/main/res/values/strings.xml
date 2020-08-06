@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Bipi</string>
+
+    <string name="br_lipi">BIPI</string>
+
+
+    <string name="home_vovel">VOVELS</string>
+    <string name="home_alphabet">ALPHABETS</string>
+
+    <string name="vovels">VOVELS</string>
+    <string name="bv_a"></string>
+    <string name="bv_aa"></string>
+    <string name="bv_i"></string>
+    <string name="bv_ii"></string>
+    <string name="bv_u"></string>
+    <string name="bv_uu"></string>
+    <string name="bv_e"></string>
+    <string name="bv_ei"></string>
+    <string name="bv_o"></string>
+    <string name="bv_ao"></string>
+
+    <string name="bm_a"></string>
+    <string name="bm_aa"></string>
+    <string name="bm_i"></string>
+    <string name="bm_ii"></string>
+    <string name="bm_u"></string>
+    <string name="bm_uu"></string>
+    <string name="bm_e"></string>
+    <string name="bm_ei"></string>
+    <string name="bm_o"></string>
+    <string name="bm_ao"></string>
+
+    <string name="alphabets">ALPHABETS</string>
+    <string name="ba_ka"></string>
+    <string name="ba_kha"></string>
+    <string name="ba_ga"></string>
+    <string name="ba_gha"></string>
+    <string name="ba_anga"></string>
+
+    <string name="ba_ca"></string>
+    <string name="ba_cha"></string>
+    <string name="ba_ja"></string>
+    <string name="ba_jha"></string>
+    <string name="ba_ena"></string>
+
+    <string name="ba_tta"></string>
+    <string name="ba_ttha"></string>
+    <string name="ba_dda"></string>
+    <string name="ba_ddha"></string>
+    <string name="ba_ndda"></string>
+
+    <string name="ba_ta"></string>
+    <string name="ba_tha"></string>
+    <string name="ba_da"></string>
+    <string name="ba_dha"></string>
+    <string name="ba_na"></string>
+
+    <string name="ba_pa"></string>
+    <string name="ba_fa"></string>
+    <string name="ba_ba"></string>
+    <string name="ba_bha"></string>
+    <string name="ba_ma"></string>
+
+    <string name="ba_ya"></string>
+    <string name="ba_ra"></string>
+    <string name="ba_la"></string>
+    <string name="ba_va"></string>
+    <string name="ba_sha"></string>
+
+    <string name="ba_ssha"></string>
+    <string name="ba_sa"></string>
+    <string name="ba_ha"></string>
+
+</resources>
