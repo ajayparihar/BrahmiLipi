@@ -9,11 +9,12 @@
 
     <TextView
         android:id="@+id/alphabets"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/new_nelson"
         android:layout_marginTop="20dp"
         android:gravity="center"
+        android:layout_centerHorizontal="true"
         android:shadowColor="#000000"
         android:shadowDx="5"
         android:shadowRadius="15"
@@ -228,7 +229,7 @@
                     android:id="@+id/ba_dda"
                     android:layout_width="180dp"
                     android:layout_height="180dp"
-                    android:background="@drawable/ba_da"
+                    android:background="@drawable/ba_dda"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
