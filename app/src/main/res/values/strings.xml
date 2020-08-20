@@ -4,10 +4,10 @@
     <string name="br_lipi">BIPI</string>
 
 
-    <string name="home_vovel">VOVELS</string>
-    <string name="home_alphabet">ALPHABETS</string>
+    <string name="home_vovel">SWAR</string>
+    <string name="home_alphabet">VYANJAN</string>
 
-    <string name="vovels">VOVELS</string>
+    <string name="vovels">SWAR</string>
     <string name="bv_a"></string>
     <string name="bv_aa"></string>
     <string name="bv_i"></string>
@@ -30,7 +30,7 @@
     <string name="bm_o"></string>
     <string name="bm_ao"></string>
 
-    <string name="alphabets">ALPHABETS</string>
+    <string name="alphabets">VYANJAN</string>
     <string name="ba_ka"></string>
     <string name="ba_kha"></string>
     <string name="ba_ga"></string>
