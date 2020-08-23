@@ -1,4 +1,4 @@
 # BrahmiLipi
-This is an android application which helps to learn Brahmi Script Through Devnagari and Latin/English scripts.
+"BrahmiLipi" is an android application that helps to learn Brahmi Script through Devnagari and Latin/English scripts.
 
-Download here :- https://ajayparihar.github.io/bipi
+Download here:- https://ajayparihar.github.io/bipi
